@@ -74,17 +74,17 @@
     grid-template-rows: repeat(5, 1fr);
     gap: 0.9px;
 
-    margin: 1.5px;
+    margin: 1px;
 
     & > button {
       font-size: 1.618rem;
-      font-weight: 300 !important;
-      color: white;
-      fill: white;
+      font-weight: 350 !important;
+      color: green;
+      fill: green;
     }
 
     :global(svg) {
-      font-size: 1.2rem;
+      font-size: 1.3rem;
     }
   }
 
