@@ -45,7 +45,7 @@
   }
 
   .titlebar {
-    padding: 1rem 1rem;
+    padding: 0.85rem 0.85rem;
 
     width: 100%;
 
@@ -55,11 +55,11 @@
   }
 
   .main-area {
-    font-size: 1.618rem;
+    font-size: 1.8rem;
     color: var(--system-color-light-contrast);
 
-    height: 100%;
-    width: 100%;
+    height: 110%;
+    width: 106%;
 
     display: flex;
     flex-direction: column;
