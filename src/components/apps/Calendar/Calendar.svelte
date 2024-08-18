@@ -99,7 +99,7 @@
   .calendar-header {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 
     padding: 10px;
   }
